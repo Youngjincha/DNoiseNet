@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: Alireza
+@author: Young-Jin Cha, Alireza Mostafavi, Sukhpreet S. Benipal
 """
 
 # %% import libraries
