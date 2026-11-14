@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: Alireza Mostfavi and Youngjin Cha
+@author: Young-Jin Cha, Alireza Mostafavi, Sukhpreet S. Benipal
 """
 
 from IPython.display import display
